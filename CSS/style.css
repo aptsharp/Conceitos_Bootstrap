@@ -1,0 +1,29 @@
+body{
+    font: 20px Arial, sans-serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+.navbar {
+    background-color: grey;
+}
+.quem-somos{
+    background-color: skyblue;
+    color: green;
+
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: cornflowerblue;
+}
+.bg-footer{
+    background-color: black;
+    color: white
+}
+.coracao{
+    color: red;
+}
+.Amaior{
+    color: rgb(240, 98, 98);
+}
